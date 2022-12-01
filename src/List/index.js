@@ -16,7 +16,6 @@ export default function List(props){
       <C.Likes>{likers} {likers > 1 ? 'curtidas' : 'curtida'}</C.Likes>
      )
   }
-
   return(
     <C.Container>
       <C.InstaPerfil>
@@ -56,3 +55,5 @@ export default function List(props){
     </C.Container>
   )
 }
+
+//edivar
