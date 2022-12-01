@@ -55,5 +55,3 @@ export default function List(props){
     </C.Container>
   )
 }
-
-//edivar
